@@ -7,10 +7,11 @@ Este repositorio contiene una **build jugable**, la **presentación del TFG** (s
 
 ---
 
-## Descarga (Build)
+## Descargas (Build)
 
-- **Windows x64:** *(enlace a Releases)*  
-  Ve a **Releases** y descarga el `.zip` más reciente.
+- Build (Windows): [Release](https://github.com/JesusGarayPF/tfg_idle_rpg/releases)
+- Video Demo: [Enlace a youtube](https://youtu.be/_EuvobKsNzM)
+- Presentación PPT: disponible en `presentation/TFG_Juego.pptx` en el [repositiorio del proyecto](https://github.com/JesusGarayPF/tfg_idle_rpg/blob/main/Mainlander-Stranded-in-Darkness%20.pptx)
 
 > Si la build no se abre en tu equipo, revisa la sección **Problemas conocidos** al final.
 
