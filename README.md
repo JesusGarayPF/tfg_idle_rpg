@@ -116,7 +116,8 @@ Tiempo estimado invertido: **> 80 horas** (aprox. 25% dedicado a depuración).
 
 ## Contacto
 
-Para dudas sobre el proyecto o el TFG:  
+Para dudas sobre el proyecto o el TFG:
+
 **Jesús Garay Franco**  
 LinkedIn: https://www.linkedin.com/in/jesus-garay-franco/  
 Email: jesus.garay.f@gmail.com
