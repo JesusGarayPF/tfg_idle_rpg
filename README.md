@@ -67,6 +67,13 @@ Menú principal → Nueva partida / Cargar partida → Mapa → Entrada a zonas 
 
 ---
 
+## Galería de Imágenes
+<img width="1919" height="1079" alt="1- Menu" src="https://github.com/user-attachments/assets/b6e6f48e-d80e-4839-bb7b-dc8160759f82" />
+<img width="1919" height="1079" alt="2 - Dialog" src="https://github.com/user-attachments/assets/11656e8f-5acb-4144-915a-02f54cbb74f4" />
+<img width="4884" height="4884" alt="3 - map" src="https://github.com/user-attachments/assets/37ac1ef8-44ca-4341-a33c-967ee1de9c51" />
+
+---
+
 ## Estado del proyecto y trabajo pendiente
 
 Este prototipo no llega todavía a un bucle completo. Quedó pendiente implementar:
